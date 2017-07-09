@@ -1,1 +1,12 @@
 hr { border-bottom: 1px solid #bbb; }
+
+.callout {
+	position: relative;
+}
+
+.taken {
+  position: absolute;
+  left: 0;
+  width: 140px;
+  z-index: 1;
+}
